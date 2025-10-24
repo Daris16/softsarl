@@ -301,16 +301,16 @@ h1, h2, h3 {
 /* DÉFINITION DES IMAGES SPÉCIFIQUES À CHAQUE PROJET */
 
 .projet-1 { 
-    background-image: url('images/realisation-industriel.jpeg'); 
+    background-image: url('realisation-industriel.jpeg'); 
 }
 .projet-2 { 
-    background-image: url('images/realisation-residentiel.jpeg'); 
+    background-image: url('realisation-residentiel.jpeg'); 
 }
 .projet-3 { 
-    background-image: url('images/realisation-eclairage.jpeg'); 
+    background-image: url('realisation-eclairage.jpeg'); 
 }
 .projet-4 { 
-    background-image: url('images/realisation-tgbt.jpeg'); 
+    background-image: url('realisation-tgbt.jpeg'); 
 }
 
 
@@ -532,4 +532,5 @@ h1, h2, h3 {
         padding: 10px 15px; /* Plus petit */
         font-size: 0.9em;
     }
+
 }
